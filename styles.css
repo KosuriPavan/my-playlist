@@ -34,6 +34,7 @@ h1,h2{
 }
 .player_one,.player_two{
 	text-align:center;
+	background-color: rgb(255, 255, 255);
 }
 .video,.audio{
 	width:550px;
